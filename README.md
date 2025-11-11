@@ -22,7 +22,7 @@ I work with **AWS, Kubernetes, Docker, Terraform, Linux, CI/CD, and GitOps**, fo
 
 - 📫 How to reach me **saikrishnachowdary347@gmail.com**
 
-- ⚡ Fun fact **🔧 I automate things that people don’t even realize can be automated.**
+- ⚡  **🔧 I automate things that people don’t even realize can be automated.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
